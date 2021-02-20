@@ -1,0 +1,31 @@
+GIT CLONE
+
+git clone is for copying in my own computer
+
+git clone https url
+
+
+ls -> list
+
+
+GIT ADD
+
+add my files in my repository
+
+git add file.java --> saying that next commit will be adding some file
+
+
+
+GIT COMMIT
+
+
+git commit -m "message"
+
+
+cat hello.html -> opens file
+
+
+git status --> whats happening in my repository
+
+git config --user 
+
