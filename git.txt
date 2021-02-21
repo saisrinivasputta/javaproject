@@ -29,3 +29,22 @@ git status --> whats happening in my repository
 
 git config --user 
 
+git push will push to github servers
+
+
+git pull will download to your computer--> git pull
+
+
+
+changes in multiple lines by multiple people 
+
+git commit -am "add to dsa"
+
+git log --> history of commits 
+
+git reset --> back to previous versions
+
+
+
+
+
